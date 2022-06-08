@@ -2,7 +2,7 @@ Olá 👋🏽! Eu sou o Celso Coutinho.
 
 - 💻 atualmente cursando engenharia informática / 3ºAno.
 - 👍🏽 Apaixonado por tecnologia.
-- 📚 Hoje estudando ui/ux design, html, css, java_Script, word_press, bootstrap 5.
+- 📚 Hoje estudando ui/ux design, html, css, java_Script.
 
 <div align="center">
   <a href="https://github.com/CelsoCoutinho">
