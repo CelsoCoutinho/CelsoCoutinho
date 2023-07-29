@@ -1,6 +1,6 @@
 Olá 👋🏽! Eu sou o Celso Coutinho.
 
-- 💻 atualmente cursando engenharia informática / 3ºAno.
+- 💻 atualmente cursando engenharia informática / 5ºAno.
 - 👍🏽 Apaixonado por tecnologia.
 
 
