@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=859fc2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo!+:%29;+Eu+sou+Celso+Coutinho;Tenho+25+anos+de+idade;Sou+formado+em+Engenharia+Informática;)](https://git.io/typing-svg)
+
+
 Olá 👋🏽! Eu sou o Celso Coutinho.
 
 - 💻 atualmente cursando engenharia informática / 5ºAno.
