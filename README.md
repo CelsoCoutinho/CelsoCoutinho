@@ -4,7 +4,7 @@
 <p>
   <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
 </p>  
-<p>
+<p align="left">
 Olá 👋🏽! Eu sou o Celso Coutinho.<br>
 - 💻 atualmente cursando engenharia informática / 5ºAno.<br>
 - 👍🏽 Apaixonado por tecnologia.<br>
