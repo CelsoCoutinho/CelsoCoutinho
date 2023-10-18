@@ -13,7 +13,7 @@ Olá 👋🏽! Eu sou o Celso Coutinho.<br>
 ## Conta LinkedIn: 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 [Celso Coutinho](https://www.linkedin.com/in/celso-coutinho-22075a230/)
-<br><br><br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/CelsoCoutinho">
