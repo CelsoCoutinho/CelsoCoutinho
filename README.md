@@ -1,13 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=100&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=859fc2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo!+:%29;+Eu+sou+o+Celso+Coutinho;Tenho+25+anos+de+idade;Sou+formado+em+Engenharia+Informática;)](https://git.io/typing-svg)
+<p>
+  <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
+</p>  
+<p>
+Olá 👋🏽! Eu sou o Celso Coutinho.<br>
+- 💻 atualmente cursando engenharia informática / 5ºAno.<br>
+- 👍🏽 Apaixonado por tecnologia.<br>
+</p><br>
 
-
-Olá 👋🏽! Eu sou o Celso Coutinho.
-
-- 💻 atualmente cursando engenharia informática / 5ºAno.
-- 👍🏽 Apaixonado por tecnologia.
-  
 ## Conta LinkedIn: 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 [Celso Coutinho](https://www.linkedin.com/in/celso-coutinho-22075a230/)
@@ -16,9 +18,8 @@ Olá 👋🏽! Eu sou o Celso Coutinho.
 <div align="center">
   <a href="https://github.com/CelsoCoutinho">
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=CelsoCoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img  src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
 </div>
-
+    
 <div style="display: inline_block"><br>
   <h1> Linguagens: </h1>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
