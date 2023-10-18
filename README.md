@@ -68,7 +68,9 @@ Olá 👋🏽! Eu sou o Celso Coutinho.<br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <br><br>
-</div>  
+
+<small>Em 16/02/2015, com 16 anos de idade ingressei ao ensino médio, e decidi fazer o técnico profissional de informática. Daí comecei a dar os primeiros passos em TI, estudando muita redes de computadores e no penúltimo ano do ensino médio durante as aulas de desenvolvimento web com HTML, CSS e JavaScript, passei a estar fascinado pela área de desenvolvimento de software.</p>
+</small>
 
 
 
