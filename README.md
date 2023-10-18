@@ -7,7 +7,7 @@ Olá 👋🏽! Eu sou o Celso Coutinho.
 
 - 💻 atualmente cursando engenharia informática / 5ºAno.
 - 👍🏽 Apaixonado por tecnologia.
-- 
+  
 ## Conta LinkedIn: 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 [Celso Coutinho](https://www.linkedin.com/in/celso-coutinho-22075a230/)
@@ -16,6 +16,7 @@ Olá 👋🏽! Eu sou o Celso Coutinho.
 <div align="center">
   <a href="https://github.com/CelsoCoutinho">
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=CelsoCoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img  src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
 </div>
 
 <div style="display: inline_block"><br>
