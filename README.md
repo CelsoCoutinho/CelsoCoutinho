@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=859fc2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo!+:%29;+Eu+sou+o+Celso+Coutinho;Tenho+25+anos+de+idade;Sou+formado+em+Engenharia+Informática;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=859fc2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo!+:%29;+Eu+sou+o+Celso+Coutinho;Tenho+26+anos+de+idade;Sou+formado+em+Engenharia+Informática;)](https://git.io/typing-svg)
 <p>
   <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
-</p>  
+</p><br><br><br><br><br><br><br>
 <p align="left">
 Olá 👋🏽! Eu sou o Celso Coutinho.<br>
-- 💻 atualmente cursando engenharia informática / 5ºAno.<br>
+- 💻 Formado em Engenharia informática.<br>
 - 👍🏽 Apaixonado por tecnologia.<br>
 </p><br>
 
