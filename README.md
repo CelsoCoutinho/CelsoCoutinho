@@ -14,12 +14,6 @@ Olá 👋🏽! Eu sou o Celso Coutinho.<br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 [Celso Coutinho](https://www.linkedin.com/in/celso-coutinho-22075a230/)
 <br><br>
-
-<div align="center">
-  <a href="https://github.com/CelsoCoutinho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CelsoCoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<br>
     
 <div style="display: inline_block">
 <h1>Sobre Min</h1>  
@@ -32,6 +26,7 @@ Em 16/02/2015, com 16 anos de idade ingressei ao ensino médio, e decidi fazer o
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
   <img align="center" alt="Leo-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Leo-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
 </div> 
 <br>
 
@@ -74,6 +69,12 @@ Em 16/02/2015, com 16 anos de idade ingressei ao ensino médio, e decidi fazer o
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div>  
 <br><br>
+
+## 🧠 GitHub Summary Cards
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CelsoCoutinho&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CelsoCoutinho&theme=tokyonight" />
+</div>
 
 
 
