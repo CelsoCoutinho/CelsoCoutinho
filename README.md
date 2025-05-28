@@ -2,12 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=859fc2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo!+:%29;+Eu+sou+o+Celso+Coutinho;Tenho+26+anos+de+idade;Sou+formado+em+Engenharia+Informática;)](https://git.io/typing-svg)
 <p>
-  <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
-</p><br><br><br><br><br><br><br>
+  <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400px" />
+</p><br><br><br><br><br><br>
 <p align="left">
-Olá 👋🏽! Eu sou o Celso Coutinho.<br>
-- 💻 Formado em Engenharia informática.<br>
-- 👍🏽 Apaixonado por tecnologia.<br>
+👋🏽 Olá, eu sou o Celso Coutinho.<br>
+💻 Formado em Engenharia informática <a href="http://197.234.119.70/index.aspx">UnIA</a>.<br>
+👍🏽 Apaixonado por tecnologia.<br>
+[Portfolio](https://portfolio-celso-coutinho.vercel.app/)
 </p><br>
 
 ## Conta LinkedIn: 
@@ -20,29 +21,25 @@ Olá 👋🏽! Eu sou o Celso Coutinho.<br>
 Em 16/02/2015, com 16 anos de idade ingressei ao ensino médio, e decidi fazer o técnico profissional de informática. Daí comecei a dar os primeiros passos em TI, estudando muita redes de computadores e no penúltimo ano do ensino médio durante as aulas de desenvolvimento web com HTML, CSS e JavaScript, passei a estar fascinado pela área de desenvolvimento de software.
 </div>
 
-<div style="display: inline_block"><br>
-  <h1> Linguagens: </h1>
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
-  <img align="center" alt="Leo-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Leo-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
-</div> 
-<br>
+## 🧰 Languages and Tools
 
-<div style="display: inline_block"><br>
-   <h1>Frameworks:</h1>
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-   <img src="https://img.shields.io/badge/React-35495E?style=for-the-badge&logo=React&logoColor=#241fc9"/>
-</div>
-<br>
+**Languages**:
 
-<div style="display: inline_block"><br>
-   <h1>SGBD:</h1>
-   <img height="80" Width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /><br>
-</div>
-<br>
+[<img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="42" height="42">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  &nbsp; 
+[<img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="42" height="42">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48">](https://www.javascript.com)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/typescript.png" width="48" height="48">](https://www.typescriptlang.org/)  &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="42" height="42">](https://developer.mozilla.org/pt-BR/docs/Web/PYTHON)  &nbsp;
+
+**Development frameworks**:
+
+[<img src="https://icon.icepanel.io/Technology/svg/React.svg" width="52" height="52">](https://react.dev/) &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/Django.svg" width="45" height="45">](https://django.io/) &nbsp;
+
+**Database**:  
+
+[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="48">](https://www.mysql.com)  &nbsp; 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="48" height="48">](https://www.postgresql.org)  &nbsp; 
 
 <div style="display: inline_block"><br>
    <h1> Ferramentas e IDE's:</h1>
@@ -71,10 +68,16 @@ Em 16/02/2015, com 16 anos de idade ingressei ao ensino médio, e decidi fazer o
 <br><br>
 
 ## 🧠 GitHub Summary Cards
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CelsoCoutinho&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CelsoCoutinho&theme=tokyonight" />
 </div>
+
+## 📫 Let's talk!
+
+[<img alt="CelsoCoutinho-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/celso-coutinho-22075a230)
+[<img alt="CelsoCoutinho-email" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png">](mailto:celso95p@gmail.com?subject=Contato%20pelo%20Github)
 
 
 
